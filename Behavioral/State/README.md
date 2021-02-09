@@ -1,4 +1,4 @@
-![Main](ImgForReadme/status.png)
+![Main](ImgForReadme/state.png)
 
 "State" is a behavior design pattern, that allows an object to change its behavior depending on its internal state.
 
