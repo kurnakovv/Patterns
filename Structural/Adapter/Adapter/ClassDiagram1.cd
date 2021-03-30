@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Adapter.BL.DollarParser" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\DollarParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Adapter.BL.EuroParser" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\EuroParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Adapter.BL.XmlToJsonRubleParserAdapter" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\XmlToJsonRubleParserAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Adapter.Library.RubleParser" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\RubleParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Adapter.BL.Abstract.IXmlParser">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Abstract\IXmlParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Adapter.Library.Abstract.IJsonParser">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\Abstract\IJsonParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
