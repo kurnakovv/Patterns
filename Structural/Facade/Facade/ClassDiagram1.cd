@@ -1,2 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Facade.Facades.CarFacade">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAAAAAAAAAAAAAACAAIIAAAAAAAAAA=</HashCode>
+      <FileName>Facades\CarFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.SubSystems.BrakeDisc">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubSystems\BrakeDisc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.SubSystems.Engine">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>SubSystems\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.SubSystems.Generator">
+    <Position X="5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>SubSystems\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.Program">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
