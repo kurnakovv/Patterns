@@ -1,6 +1,6 @@
 ***
 
-![Main](imgForReadme/builder.png)
+![Main](ImgForReadme/builder.png)
 
 ***
 
@@ -16,7 +16,7 @@ A "Builder" is a generative design pattern that allows you to divide the creatio
 
 ## Diagram:
 
-![Uml](imgForReadme/UML.png)
+![Uml](ImgForReadme/UML.png)
 
 ---
 
